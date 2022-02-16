@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @grete-gemini
 - 👀 I’m interested in hiring top talent in the Platform space
-- 🌱 I’m currently learning about DAO, staking and K8s. 
-- 💞️ I’m looking to collaborate on automating hiring processes
 - 📫 How to reach me https://twitter.com/AllOfThePizza
 
 <!---
